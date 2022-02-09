@@ -45,16 +45,16 @@ class Sofabeddd {
 ```
 
 ```console
-Console > 
+Console
 
-I'm just your average Minecraft plugin developer.
-
-Some info about me:
- - Age: 16
- - Sex: Male
- - Profession: Student
- - Location: United States
-
-Ways to contact me:
- - Discord: sofabeddd#0001
+> I'm just your average Minecraft plugin developer.
+>
+> Some info about me:
+>  - Age: 16
+>  - Sex: Male
+>  - Profession: Student
+>  - Location: United States
+>
+> Ways to contact me:
+>  - Discord: sofabeddd#0001
 ```
