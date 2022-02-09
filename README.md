@@ -22,7 +22,7 @@ class Sofabeddd {
 
   public static void main(String[] args) {
 
-    System.out.println("I'm just your average Minecraft plugin developer.");
+    System.out.println("I am just your average Minecraft plugin developer.");
     System.out.println("\nSome info about me:");
     
     for (String info : userInfo) {
@@ -47,7 +47,7 @@ class Sofabeddd {
 ```console
 Console
 
-> I\'m just your average Minecraft plugin developer.
+> I am just your average Minecraft plugin developer.
 >
 > Some info about me:
 >  - Age: 16
