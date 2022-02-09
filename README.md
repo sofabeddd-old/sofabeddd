@@ -1,6 +1,5 @@
 ```java
 // Sofabeddd.java
-
 package io.github.sofabeddd;
 
 class Sofabeddd {
@@ -46,7 +45,6 @@ class Sofabeddd {
 
 ```console
 Console
-
 > I am just your average Minecraft plugin developer.
 >
 > Some info about me:
