@@ -1,7 +1,7 @@
 ```java
 // Sofabeddd.java
 
-package io.guthub.sofabeddd;
+package io.github.sofabeddd;
 
 class Sofabeddd {
 
@@ -47,7 +47,7 @@ class Sofabeddd {
 ```console
 Console
 
-> I'm just your average Minecraft plugin developer.
+> I\'m just your average Minecraft plugin developer.
 >
 > Some info about me:
 >  - Age: 16
