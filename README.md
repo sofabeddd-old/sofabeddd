@@ -1,5 +1,6 @@
-`Sofabeddd.java`
 ```java
+// Sofabeddd.java
+
 package io.guthub.sofabeddd;
 
 class Sofabeddd {
@@ -43,8 +44,9 @@ class Sofabeddd {
 }
 ```
 
-`Console`
 ```console
+Console > 
+
 I'm just your average Minecraft plugin developer.
 
 Some info about me:
